@@ -1,4 +1,3 @@
 Hallo Thomas!
-<<<<<<< HEAD
-
 Hallo Philip!
+Noch einen schönen Abend!
