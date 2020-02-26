@@ -1,3 +1,4 @@
 Hallo Thomas!
+<<<<<<< HEAD
 
 Hallo Philip!
